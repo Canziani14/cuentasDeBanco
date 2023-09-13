@@ -1,0 +1,9 @@
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\bin\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\bin\Debug\DAL.pdb
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\bin\Debug\BE.dll
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\bin\Debug\BE.pdb
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\obj\Debug\DAL.dll
+C:\Users\Matias Canziani\Desktop\Cuentas\DAL\obj\Debug\DAL.pdb
